@@ -30,7 +30,7 @@ Birth
 birth
 Per quanto riguarda la religione abbiamo notato che solo in alcuni curriculum è presente (4-6-11) mentre in altri non è presente. Per l’individuazione abbiamo utilizzato il tag
 Religion
-Per quanto riguarda l’indirizzo in alcuni curriculum non è sempre presente. Abbiamo notato differenziazioni tra di loro poiché nel curriculum (1-4-6-11) non è presente il dato. In alcuni non abbiamo il tag address mentre in altri esso viene inserito insieme al nome e cognome, come titolo del curriculum. Per l’individuazione abbiamo utilizzato il tag
+Per quanto riguarda l’indirizzo in alcuni curriculum non è sempre presente. Abbiamo notato differenziazioni tra di loro poiché nel curriculum (1-4-6-11) non è presente il dato. In alcuni non abbiamo il tag address mentre in altri esso viene inserito direttamente nel curriculum. Per l’individuazione abbiamo utilizzato il tag
 ADDRESS
 address
 
