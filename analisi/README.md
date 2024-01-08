@@ -45,12 +45,12 @@ I tag che sono stati utilizzati per la ricerca della religione sono i seguenti:
 RELIGION
 I tag che sono stati utilizzati per la ricerca dell’indirizzo sono i seguenti:
 ADDRESS
-	I tag che sono stati utilizzati per la ricerca del nome del padre sono i seguenti:
+I tag che sono stati utilizzati per la ricerca del nome del padre sono i seguenti:
 FATHER
-	I tag che sono stati utilizzati per la ricerca del nome della madre sono i seguenti:
+I tag che sono stati utilizzati per la ricerca del nome della madre sono i seguenti:
 MOTHER
-	Per analizzare i curriculum di linkedin, poichè la loro struttura è sempre uguale:
-	Il nome è presente prima del lavoro attuale ed il lavoro attuale prima dell’indirizzo.
-	Si è creato un metodo per ricercare l'indirizzo, tale ricerca è stata fatta per regione, per   	 
+Per analizzare i curriculum di linkedin, poichè la loro struttura è sempre uguale:
+Il nome è presente prima del lavoro attuale ed il lavoro attuale prima dell’indirizzo.
+Si è creato un metodo per ricercare l'indirizzo, tale ricerca è stata fatta per regione, per   	 
 poi recuperare le due informazioni precedenti “Nome” e “Lavoro attuale”.
 I tag utilizzati per questo metodo sono le regioni italiane.
